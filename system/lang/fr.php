@@ -167,8 +167,7 @@
 "Fokiz Content Managment System License
 -----------------------------------------------------------------------------------------
 
-Le CMS Fokiz est distribu&eacute; selon les termes de la GNU General Public License 
-(voir ci-dessous) et est donc distribu&eacute; TEL QUEL sans aucune garantie.
+Le CMS Fokiz est distribu&eacute; selon les termes de la GNU General Public License (voir ci-dessous) et est donc distribu&eacute; TEL QUEL sans aucune garantie.
 
 Pour plus d'information, visitez le site <http://www.fokiz.com>
 
