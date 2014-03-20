@@ -2,162 +2,162 @@
 
     $lang = Array();
 
-    $lang['Fokiz Content Management System'] = "Fokiz CMS";
+    $lang['Fokiz Content Management System'] = "Fokiz Content Management System";
 
     // Global ////////////////////////////////////////////////////////
 
-    $lang['Title'] = "Tytuł";
+    $lang['Title'] = "Titel";
     $lang['URL'] = "URL";
-    $lang['Save'] = "Zapisz";
-    $lang['Save Changes'] = "Zapisz zmiany";
-    $lang['Close'] = "Zamknij";
-    $lang['Delete'] = "Usuń";
-    $lang['Loading'] = "Ładowanie";
-    $lang['Settings'] = "Ustawienia";
-    $lang['Modify'] = "Zmodyfikuj";
-    $lang['Change'] = "Zmień";
-    $lang['Password'] = "Hasło";
+    $lang['Save'] = "Speichern";
+    $lang['Save Changes'] = "Änderungen speichern";
+    $lang['Close'] = "Schliessen";
+    $lang['Delete'] = "Löschen";
+    $lang['Loading'] = "Laden";
+    $lang['Settings'] = "Einstellungen";
+    $lang['Modify'] = "Ändern";
+    $lang['Change'] = "Wechseln";
+    $lang['Password'] = "Passwort";
 
     // Login /////////////////////////////////////////////////////////
 
-    $lang['Username'] = "Login";
-    $lang['Login'] = "Zaloguj";
-    $lang['Failed Login Attempt'] = "Nieudana Próba Zalogowania";
+    $lang['Username'] = "Benutzername";
+    $lang['Login'] = "Anmelden";
+    $lang['Failed Login Attempt'] = "Anmeldung fehlgeschlagen";
 
     // Top Bar ///////////////////////////////////////////////////////
 
-    $lang['Save &amp; Publish'] = "Zapisz i Opublikuj";
-    $lang['Revert'] = "Cofnij";
-    $lang['Edit Content'] = "Edycja Treści";
-    $lang['Done Editing'] = "Koniec Edycji";
-    $lang['Page Properties'] = "Ustawienia Strony";
-    $lang['Assets'] = "Pliki";
-    $lang['Components'] = "Komponenty";
-    $lang['Modules'] = "Moduły";
-    $lang['Resources'] = "Zasoby";
-    $lang['No Resources Available'] = "Brak Dostępnych Zasobów";
-    $lang['Log Out'] = "Wyloguj";
+    $lang['Save &amp; Publish'] = "Speichern &amp; Publizieren";
+    $lang['Revert'] = "Rückgängig";
+    $lang['Edit Content'] = "Inhalt bearbeiten";
+    $lang['Done Editing'] = "Bearbeiten beenden";
+    $lang['Page Properties'] = "Seiteneinstellungen";
+    $lang['Assets'] = "Assets";
+    $lang['Components'] = "Komponenten";
+    $lang['Modules'] = "Module";
+    $lang['Resources'] = "Ressourcen";
+    $lang['No Resources Available'] = "Keine Ressourcen verfügbar";
+    $lang['Log Out'] = "Abmelden";
 
     // Components ////////////////////////////////////////////////////
 
-    $lang['Page Manager'] = "Menadżer Stron";
-    $lang['Navigation'] = "Nawigacja";
-    $lang['Sitewide Settings'] = "Ustawienia Witryny";
-    $lang['User Management'] = "Zarządzanie Użytkownikami";
+    $lang['Page Manager'] = "Seiten Manager";
+    $lang['Navigation'] = "Navigation";
+    $lang['Sitewide Settings'] = "Globale Einstellungen";
+    $lang['User Management'] = "Benutzerverwaltung";
 
     // Content Editor ////////////////////////////////////////////////
 
-    $lang['Content Saved'] = "Treść Zapisana";
+    $lang['Content Saved'] = "Inhalt gespeichert";
 
     // Navigation ////////////////////////////////////////////////////
 
-    $lang['Primary'] = "Pierwszorzędne";
-    $lang['Secondary'] = "Drugorzędne";
-    $lang['Tertiary'] = "Trzeciorzędne";
-    $lang['ACTIONS'] = "AKCJE";
-    $lang['Move Up'] = "W Góre";
-    $lang['Move Down'] = "W Dół";
-    $lang['This item is already at the first position.'] = "Ten element już jest na pierwszej pozycji.";
-    $lang['This item is already at the last position.'] = "Ten element już jest na ostatniej pozycji.";
-    $lang['Delete this item permanently?'] = "Usunąć ten element pernamentnie?";
-    $lang['SAVED'] = "ZAPISANO";
+    $lang['Primary'] = "Primär";
+    $lang['Secondary'] = "Sekundär";
+    $lang['Tertiary'] = "Tertiär";
+    $lang['ACTIONS'] = "Aktionen";
+    $lang['Move Up'] = "Nach oben";
+    $lang['Move Down'] = "Nach unten";
+    $lang['This item is already at the first position.'] = "Dieses Element ist bereits an der ersten Position.";
+    $lang['This item is already at the last position.'] = "Dieses Element ist bereits an der letzten Position.";
+    $lang['Delete this item permanently?'] = "Dieses Element endgültig löschen?";
+    $lang['SAVED'] = "Gespeichert";
 
     // Page Properties & Manager /////////////////////////////////////
 
-    $lang['Page Properties'] = "Ustawienia Strony";
-    $lang['Create New Page'] = "Stwórz Nową Stronę";
-    $lang['Keywords'] = "Słowa Kluczowe";
-    $lang['Description'] = "Opis";
-    $lang['Created'] = "Utworzono";
-    $lang['Modified'] = "Zmieniono";
-    $lang['Go'] = "Idż";
-    $lang['Template'] = "Szablon";
-    $lang['Tags'] = "Tagi";
-    $lang['CTRL+Click to select multiple or'] = "CTRL+LPM by wybrać wiele lub";
-    $lang['Add Tag'] = "Dodaj Tag";
-    $lang['Feed'] = "Kanał";
-    $lang['INCLUDE this page in Feed'] = "ZAWRZYJ tę stronę w Kanale";
-    $lang['DO NOT INCLUDE this page in Feed'] = "NIE ZAWIERAJ tej strony w Kanale";
-    $lang['Page Title Already In Use'] = "Tytuł Strony Już Jest W Użyciu";
-    $lang['Title, Keywords and Description Must Be Completed'] = "Tytuł, Słowa kluczowe oraz Opis Muszą Być Wypełnione";
-    $lang['You are currently viewing this page. You must move to a different page first.'] = "Już wyświetlasz tę stronę. Musisz przejść najpierw do innej.";
-    $lang['The page selected is the website default and cannot be deleted.'] = "Strona została wybrana jako domyślna witryny i nie może być usunięta.";
-    $lang['Delete page permanantly?'] = "Usunąć stronę pernamentnie?";
+    $lang['Page Properties'] = "Seiteneinstellungen";
+    $lang['Create New Page'] = "Neue Seite ersellen";
+    $lang['Keywords'] = "Keywords";
+    $lang['Description'] = "Beschreibung";
+    $lang['Created'] = "Erstellt";
+    $lang['Modified'] = "Verändert";
+    $lang['Go'] = "Los";
+    $lang['Template'] = "Template";
+    $lang['Tags'] = "Tags";
+    $lang['CTRL+Click to select multiple or'] = "CTRL+Click um mehrere auszuwählen oder";
+    $lang['Add Tag'] = "Tag hinzufügen";
+    $lang['Feed'] = "Feed";
+    $lang['INCLUDE this page in Feed'] = "Dieses Seite in den Feed einbinden";
+    $lang['DO NOT INCLUDE this page in Feed'] = "`Dieses Seite nicht in den Feed einbinden";
+    $lang['Page Title Already In Use'] = "Seitentitel wird bereits verwendet";
+    $lang['Title, Keywords and Description Must Be Completed'] = "Titel, Keywords und Beschreibung müssen ausgefüllt sein";
+    $lang['You are currently viewing this page. You must move to a different page first.'] = "Sie betrachten momentan diese Seite. Sie müssen zuerst zu einer anderen Seite navigieren.";
+    $lang['The page selected is the website default and cannot be deleted.'] = "Die ausgewählte Seite ist die Default Seite und kann nicht gelöscht werden.";
+    $lang['Delete page permanantly?'] = "Seite endgültig löschen?";
 
     // Asset Manager /////////////////////////////////////////////////
 
-    $lang['Folders'] = "Foldery";
-    $lang['Files'] = "Pliki";
-    $lang['Use Selected File'] = "Użyj Wybranego Pliku";
-    $lang['Upload'] = "Wyślij";
-    $lang['Open'] = "Otwórz";
-    $lang['Add'] = "Dodaj";
-    $lang['Rename'] = "Zmień";
-    $lang['Successfully Renamed Item'] = "Pomyślnie Zmieniono Nazwę Elementu";
-    $lang['Name'] = "Nazwa";
-    $lang['Invlaid Name'] = "Nieprawidłowa Nazwa";
-    $lang['Folder Name'] = "Nazwa Folderu";
-    $lang['Invalid Folder Name'] = "Nieprawidłowa Nazwa Folderu";
-    $lang['Folder Successfully Created'] = "Folder Został Pomyslnie Utworzony";
-    $lang['Are you sure you wish to delete the selected item?'] = "Czy na pewno chcesz usunąć wybrany element?";
-    $lang['Successfully Deleted'] = "Usunięto Pomyslnie";
+    $lang['Folders'] = "Ordner";
+    $lang['Files'] = "Dateien";
+    $lang['Use Selected File'] = "Ausgewählte Dateien verwenden";
+    $lang['Upload'] = "Upload";
+    $lang['Open'] = "Öffnen";
+    $lang['Add'] = "Hinzufügen";
+    $lang['Rename'] = "Umbenennen";
+    $lang['Successfully Renamed Item'] = "Element erfolgreich umbenannt";
+    $lang['Name'] = "Name";
+    $lang['Invlaid Name'] = "Ungültiger Name";
+    $lang['Folder Name'] = "Ordner Name";
+    $lang['Invalid Folder Name'] = "Ungültiger Ordner Name";
+    $lang['Folder Successfully Created'] = "Ordner erfolgreich erstellt";
+    $lang['Are you sure you wish to delete the selected item?'] = "Möchten Sie das ausgewählte Element löschen?";
+    $lang['Successfully Deleted'] = "Erfolgreich gelöscht";
 
     // Password //////////////////////////////////////////////////////
 
-    $lang['Change Password'] = "Zmień Hasło";
-    $lang['New Password'] = "Nowe Hasło";
-    $lang['Verify New Password'] = "Potwierdż Nowe Hasło";
-    $lang['Passwords Do Not Match'] = "Hasła nie pasują";
-    $lang['Password Minimum Of 8 Characters'] = "Hasło Musi Mieć Minimum 8 Znaków";
-    $lang['Password Changed!'] = "Zmieniono Hasło!";
+    $lang['Change Password'] = "Passwort ändern";
+    $lang['New Password'] = "Neues Passwort";
+    $lang['Verify New Password'] = "Neues Passwort überprüfen";
+    $lang['Passwords Do Not Match'] = "Passwörter stimmen nicht überein";
+    $lang['Password Minimum Of 8 Characters'] = "Das Passwort muss aus mindestens 8 Zeichen bestehen";
+    $lang['Password Changed!'] = "Passwort geändert!";
 
     // Publish / Revert //////////////////////////////////////////////
 
-    $lang['Proceeding will make the content and all changes to this page publicly available'] = "Kontynuowanie uczyni treść oraz wszystkie zmiany tej strony publicznie dostępnymi";
-    $lang['Notes'] = "Notatki";
+    $lang['Proceeding will make the content and all changes to this page publicly available'] = "WWenn Sie weiterfahren, wird der Inhalt und sämtliche Änderungen öffentlich sichtbar.";
+    $lang['Notes'] = "Notizen";
 
-    $lang['<strong>Warning:</strong> Reverting will remove all changes made and return to the current live state of the page'] = "<strong>Uwaga:</strong> Cofnięcie usunie wszystkie zmiany i przywróci obecny stan strony";
+    $lang['<strong>Warning:</strong> Reverting will remove all changes made and return to the current live state of the page'] = "<strong>Warnung:</strong> Alle Änderungen werden gelöscht und Sie kehren zum Status der Live-Seite zurück.";
 
     // Sitewide Settings /////////////////////////////////////////////
 
-    $lang['Title Cannot Be Blank'] = "Tytuł Nie Może Być Pusty";
-    $lang['Default (Home) Page)'] = "Domyślna Strona (Domowa)";
+    $lang['Title Cannot Be Blank'] = "Titel darf nicht leer sein";
+    $lang['Default (Home) Page)'] = "Default (Home) Page";
 
     // User Management ///////////////////////////////////////////////
 
-    $lang['User Editor'] = "Edytor Użytkownika";
-    $lang['Account Type'] = "Typ Konta";
+    $lang['User Editor'] = "Benutzer Editor";
+    $lang['Account Type'] = "Account Typ";
     $lang['Type'] = "Typ";
-    $lang['Create New User'] = "Stwórz Nowego Użytkownika";
-    $lang['Verify Password'] = "Potwierdż Hasło";
-    $lang['Username is Required'] = "Nazwa Użytkownika jest Wymagana";
-    $lang['Username Already In Use'] = "Nazwa Użytkownika Jest Już W Użyciu";
-    $lang['You must have at least one user in the system.'] = "Musisz mieć przynajmniej jednego użytkownika w systemie.";
-    $lang['You are currently logged in as this user. It cannot be deleted.'] = "Jesteś obecnie zalogowany/a jako ten użytkownik. Nie może być usunięty.";
-    $lang['Delete the selected user permanently?'] = "Usunąć wybranego uzytkownika pernamentnie?";
+    $lang['Create New User'] = "Neuen Benutzer erstellen";
+    $lang['Verify Password'] = "Passwort überprüfen";
+    $lang['Username is Required'] = "Benutzername wird benötigt";
+    $lang['Username Already In Use'] = "Benutzername wird bereits verwendet";
+    $lang['You must have at least one user in the system.'] = "Es muss mindestens ein Benutzer im System vorhanden sein.";
+    $lang['You are currently logged in as this user. It cannot be deleted.'] = "Sie sind momentan mit diesem Benutzer angemeldet und kann daher nicht gelöscht werden.";
+    $lang['Delete the selected user permanently?'] = "Den ausgewählten Benutzer löschen?";
 
     $lang['Administrator'] = "Administrator";
-    $lang['Editor'] = "Edytor";
+    $lang['Editor'] = "Editor";
 
     // Installer /////////////////////////////////////////////////////
 
     $lang['Fokiz Installer'] = "Fokiz Installer";
-    $lang['Something is not right. The system check returned the following:'] = "Something is not right. The system check returned the following:";
-    $lang['must be writeable'] = "must be writeable";
-    $lang['Could not connect to database (Check /config.php)'] = "Could not connect to database (Check /config.php)";
-    $lang['Once you have remedied the issues above please press the button to check requirements.'] = "Once you have remedied the issues above please press the button to check requirements.";
-    $lang['Check Requirements'] = "Check Requirements";
-    $lang['After a quick check it appears that all requirements have been met!<br />Please provide a username and password for the system, then press the [Install Fokiz] button to continue:'] = "After a quick check it appears that all requirements have been met!<br />Please provide a username and password for the system, then press the [Install Fokiz] button to continue:";
-    $lang['Install Fokiz'] = "Install Fokiz";
-    $lang['There was a problem installing the system. It is highly suggested you check all requirements and try again.'] = "There was a problem installing the system. It is highly suggested you check all requirements and try again.";
-    $lang['The system has been successfully installed.<br />To continue to the website, please click the button below.'] = "The system has been successfully installed.<br />To continue to the website, please click the button below.";
-    $lang['Proceed to Website'] = "Proceed to Website";
-    $lang['All Fields Must Be Filled Out'] = "All Fields Must Be Filled Out";
+    $lang['Something is not right. The system check returned the following:'] = "Etwas ist schiefgegangen. Der Systemcheck meldet:";
+    $lang['must be writeable'] = "muss schreibbar sein";
+    $lang['Could not connect to database (Check /config.php)'] = "Verbindung zur Datenbank konnte nicht hergsetellt werden (Check /config.php)";
+    $lang['Once you have remedied the issues above please press the button to check requirements.'] = "Wenn Sie die oben aufgeführten Probleme gelöst haben, klicken Sie den Button zur Überprüfung der Anforderungen.";
+    $lang['Check Requirements'] = "Anforderungen überprüfen";
+    $lang['After a quick check it appears that all requirements have been met!<br />Please provide a username and password for the system, then press the [Install Fokiz] button to continue:'] = "Alle Anforderungen wurden erfüllt!<br />Bitte definieren Sie einen Benutzernamen und Passwort für das System, und klicken Sie dann auf [Fokiz Installieren] Button um weiterzufahren:";
+    $lang['Install Fokiz'] = "Fokiz installieren";
+    $lang['There was a problem installing the system. It is highly suggested you check all requirements and try again.'] = "Bei der Installation ist ein Problem aufgetreten. Überprüfen Sie alle Anforderungen und versuchen Sie es erneut.";
+    $lang['The system has been successfully installed.<br />To continue to the website, please click the button below.'] = "Das System wurde erfolgreich installiert.<br /> Um weiterzufahren, bitte den untenstehenden Button drücken.";
+    $lang['Proceed to Website'] = "Weiter zur Webseite";
+    $lang['All Fields Must Be Filled Out'] = "Alle Felder müssen ausgefüllt sein";
 
 
     // About /////////////////////////////////////////////////////////
 
-    $lang['Open Fokiz Website'] = "Otwórz Stronę Fokiz";
+    $lang['Open Fokiz Website'] = "Fokiz Website besuchen";
 
     //////////////////////////////////////////////////////////////////
     // GPL / License /////////////////////////////////////////////////
@@ -329,4 +329,3 @@ If the disclaimer of warranty and limitation of liability provided above cannot 
 ";
 
 ?>
-
